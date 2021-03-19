@@ -6,9 +6,7 @@
           <img
             class="object-left inline-flex mx-8 w-20 h-18"
             alt="logo"
-            :src="
-              require('/Users/ninjameyer/Desktop/HamburgerCodingSchool/Vue-Travelblog/public/Logo.png')
-            "
+            src="Logo.png"
           />
         </router-link>
         <router-link
