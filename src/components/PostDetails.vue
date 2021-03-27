@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-wrap md mx-auto items-center h-screen">
+  <div class="flex flex-wrap mx-auto items-center h-screen">
     <div
       class="bg-gradient-to-r from-gray-50 to-gray-300 mx-auto w-full md:w-1/2 h-screen"
     >

@@ -1,6 +1,7 @@
 <template>
   <div class="text-center">
-    <Header title="Ninja Travel" />
+     <Header title="Ninja Travel" />
+    
 
     <router-view v-slot="{ Component }">
       <keep-alive>

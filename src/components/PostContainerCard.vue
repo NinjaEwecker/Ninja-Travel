@@ -5,9 +5,7 @@
       :key="carddetail.id"
       v-for="carddetail in carddetails"
     >
-      <CardDetails
-        @click="cardSelected(carddetail.id)"
-        :carddetail="carddetail"
+      <CardDetails :carddetail="carddetail"
       />
     </div>
   </div>

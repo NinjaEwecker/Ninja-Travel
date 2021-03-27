@@ -32,6 +32,7 @@ export default {
 
   props: {
     carddetail: Object,
+    
   },
 
   methods: {
